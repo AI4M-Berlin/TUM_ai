@@ -1,4 +1,4 @@
-# ai4medicine hackathon at TUM.AI
+# ai4medicine challenges at TUM.AI Makeathon
 
 ### This repository contains evaluation code which will be used on the final submissions. 
 
